@@ -64,4 +64,6 @@ Other plugins that I didn't mention above are as follows:
 
 - [markdown-preview](https://github.com/iamcco/markdown-preview) for previewing markdown files.
 
+- [gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) for generating gitignore files inside of neovim.
+
 ---
