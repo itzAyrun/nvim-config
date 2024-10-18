@@ -66,4 +66,6 @@ Other plugins that I didn't mention above are as follows:
 
 - [gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) for generating gitignore files inside of neovim.
 
+- [vim-licenses](https://github.com/antoyo/vim-licenses) for generating licenses
+
 ---
